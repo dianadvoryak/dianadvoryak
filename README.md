@@ -2,10 +2,13 @@
 
 [![codewars](https://www.codewars.com/users/dianadvoryak/badges/small)](https://www.codewars.com/users/dianadvoryak) 
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=dianadvoryak)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=dianadvoryak&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dianadvoryak&theme=discord_old_blurple)
 
+[//]: # (![]&#40;https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dianadvoryak&theme=discord_old_blurple&#41;)
 
+[//]: # ()
 
 <!--
 **dianadvoryak/dianadvoryak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
