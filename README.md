@@ -2,7 +2,6 @@
 
 [![codewars](https://www.codewars.com/users/dianadvoryak/badges/small)](https://www.codewars.com/users/dianadvoryak) 
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=dianadvoryak&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dianadvoryak&theme=discord_old_blurple)
 
